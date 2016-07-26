@@ -1,5 +1,5 @@
 # SGP
-Saliency Detection and Saccadic Eye-movement simulation based on Super Gaussian Component Pursuit
+Saliency Detection and Saccadic Eye-movement Simulation based on Super Gaussian Component Pursuit
 
 # Introduction
 
